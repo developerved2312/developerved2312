@@ -1,8 +1,10 @@
 <div align="left">
  
  <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=System+Initializing...;Fetching+Profile:+Ved+Vyas;Loading+Modules:+AI%2FML,+STEM,+Entrepreneurship;Status:+Ready+to+Code..." alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=%3E+System+Loading...;%3E+User+Found:+developerved2312;%3E+Data+Fetched...;%3E+Welcome+Ved+Vyas." alt="Typing SVG" />
  </a>
+
+ <br/>
 
  <br/>
  
@@ -26,7 +28,7 @@
 
 ### 📂 MISSION BRIEFING
 > **Target:** Solve complex problems using Data & Code.  
-> **Current Quest:** Mastering Generative AI and Full Stack Development.
+> **Current Quest:** On the way of mastering Databases and Full-Stack Development.
 
 ---
 

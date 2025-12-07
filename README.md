@@ -49,11 +49,11 @@
 
 ### 📊 PLAYER STATS
 
-<div align="center">
+<!-- <div align="center">
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=developerved2312&show_icons=true&theme=radical&hide_border=true" alt="Ved's Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerved2312&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="160"/>
-</div>
+</div> -->
 
 ---
 

@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
  
  <a href="https://git.io/typing-svg">
    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=System+Initializing...;Fetching+Profile:+Ved+Vyas;Loading+Modules:+AI%2FML,+STEM,+Entrepreneurship;Status:+Ready+to+Code..." alt="Typing SVG" />
